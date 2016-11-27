@@ -1,0 +1,25 @@
+body{
+	background-image:url("http://www.amazingwallpaperz.com/wp-content/uploads/Beautiful-Sunset-Landscape-High-Resolution-Wallpapers.jpg");
+	font-size:20px;
+	color: white;
+	family:Georgia;
+}
+#nav{
+	padding:20px;
+	text-align:center;
+}
+#nav{
+	display:inline;
+}
+a{
+	display:block;
+	padding:8px;
+	background-color:black;
+	color:white;
+}
+#nav a:hover{
+	color:red;
+}
+#main{
+	padding:20px;
+}
